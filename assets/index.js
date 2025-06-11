@@ -1,4 +1,4 @@
-// Hero
+//! Hero
 import InstagramLineIcon from "remixicon-react/InstagramLineIcon";
 import FacebookCircleLineIcon from "remixicon-react/FacebookCircleLineIcon";
 import DribbbleLineIcon from "remixicon-react/DribbbleLineIcon";
@@ -14,7 +14,7 @@ export const heroIcons = [
     <GithubLineIcon />,
 ];
 
-// About Me
+//! About Me
 import GithubFillIcon from "remixicon-react/GithubFillIcon";
 import Projector2LineIcon from "remixicon-react/Projector2LineIcon";
 import GroupLineIcon from "remixicon-react/GroupLineIcon";
@@ -23,22 +23,22 @@ import AwardFillIcon from "remixicon-react/AwardFillIcon";
 export const aboutData = [
     {
         title: "Github Repos",
-        amount: 348,
+        amount: 148,
         icon: <GithubFillIcon />,
     },
     {
         title: "Successful Projects",
-        amount: 227,
+        amount: 7,
         icon: <Projector2LineIcon />,
     },
     {
         title: "Satisfied clients",
-        amount: 176,
+        amount: 2,
         icon: <GroupLineIcon />,
     },
     {
         title: "Awards and Recognition",
-        amount: 107,
+        amount: 1,
         icon: <AwardFillIcon />,
     },
 ];
@@ -50,7 +50,7 @@ export const downloadIcon = <DownloadLineIcon />;
 export const arrowLeftIcon = <ArrowLeftSFillIcon />;
 
 export const aboutText =
-    " Hi, I'm Nick, a web developer & designer. I blend the technical  skills of web development with the creative aspects of web design. I code in HTML, CSS, JavaScript, React, NextJS... to build functional and responsive websites, while also using design tools like Photoshop and Figma to create visually appealing and user-friendly  interfaces. My role allows me to ensure that websites not only work well but also look great and provide an excellent user experience.";
+    " Hi, I'm Sifat, a full-stack developer. I blend the technical  skills of web development with the creative aspects of web design. I code in HTML, CSS, JavaScript, React, NextJS, Node.js, Express.js, MongoDB... to build functional and responsive websites, while also using design tools like Figma to create visually appealing and user-friendly  interfaces. My role allows me to ensure that websites not only work well but also look great and provide an excellent user experience.";
 // End of About Me
 
 // Experience
