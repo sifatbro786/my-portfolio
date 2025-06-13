@@ -53,59 +53,59 @@ export const aboutText =
     " Hi, I'm Sifat, a full-stack developer. I blend the technical  skills of web development with the creative aspects of web design. I code in HTML, CSS, JavaScript, React, NextJS, Node.js, Express.js, MongoDB... to build functional and responsive websites, while also using design tools like Figma to create visually appealing and user-friendly  interfaces. My role allows me to ensure that websites not only work well but also look great and provide an excellent user experience.";
 // End of About Me
 
-// Experience
+//! Experience
 export const experienceData = [
     {
-        year: 1,
+        year: 2018,
         title: "Foundation and Basics",
         education:
-            "High School Diploma: Focus on computer science, mathematics, and art/design courses.",
+            "SSC: Achieved a GPA of 5.00 in Science from my Secondary School Certificate (SSC).",
         experience: [
-            "Basic HTML/CSS: Learn through online tutorials and courses.",
-            "Personal Projects: Create simple personal websites or blogs.",
+            "1. Online Learning: Gained foundational skills through online tutorials like Udemy and hands-on practice in HTML and CSS.",
+            "2. Personal Projects: Built simple websites and blogs to apply what I learned.",
         ],
     },
     {
-        year: 2,
-        title: "Advanced Learning and Early Experience",
+        year: 2020,
+        title: "Strengthening the Fundamentals",
         education:
-            "Associate’s Degree in Web Development or Design: Enroll in a 2-year program covering web development and design principles.",
+            "HSC: Achieved a GPA of 5.00 in Science from my Higher Secondary Certificate (HSC).",
         experience: [
-            "Freelance Work: Take on small freelance projects to build a portfolio.",
-            "Online Courses and Certifications: Learn JavaScript, responsive design, and UX/UI design.",
+            "1. Online Learning: Focused on core JavaScript concepts, responsive design, and basic UX/UI principles.",
+            "2. Personal Projects: Created projects such as a to-do list app, expense tracker, blog website, calculator, and quiz app using vanilla JavaScript.",
         ],
     },
     {
-        year: 3,
+        year: 2021,
+        title: "Building Interactive Web Applications",
+        education: "BSc: Currently in the 1st year of Bachelor of Science in Statistics.",
+        experience: [
+            "1. Online Learning: Studied React fundamentals including components, state, and props.",
+            "2. Personal Projects: Built React projects such as a task manager app, weather app with API integration, simple e-commerce product listing, and a movie search app using external APIs.",
+        ],
+    },
+    {
+        year: 2024,
+        title: "Advanced Learning and Project Development",
+        education: "BSc: Currently in the 3rd year of Bachelor of Science in Statistics.",
+        experience: [
+            "1. Online Learning: Completed a MERN Stack Diploma course at Creative IT Institute and a Full Stack Web Development program at Programming Hero.",
+            "2. Personal Projects: Developed an e-commerce website and a hotel management system using React, Node.js, Express.js, and MongoDB.",
+        ],
+    },
+    {
+        year: 2025,
         title: "Specialized Education and Real-World Application",
-        education:
-            "Online Courses and Bootcamps: Focus on specialized areas like front-end frameworks (React, Angular) and back-end technologies (Node.js).",
+        education: "BSc: Currently in the 4th year of Bachelor of Science in Statistics.",
         experience: [
-            "Internships: Secure internships with tech companies or design agencies.",
-            "Contribute to Open Source: Collaborate on open-source projects.",
-        ],
-    },
-    {
-        year: 4,
-        title: "Building Expertise and Expanding Skills",
-        education: "Certifications: Obtain certifications in advanced web technologies.",
-        experience: [
-            "Full-Time Position: Work as a junior web developer or designer.",
-            "Portfolio Development: Continuously update your portfolio with professional and personal projects.",
-        ],
-    },
-    {
-        year: 5,
-        title: "Mastery and Leadership",
-        education: "Workshops and Conferences: Attend industry events to stay updated.",
-        experience: [
-            "Senior Position: Aim for a senior web developer or lead designer role, mentoring junior colleagues.",
-            "Freelance and Consulting: Consider starting a freelance business or consulting practice.",
+            "1. Online Learning: Completed advanced courses on React, Redux, TypeScript, and Next.js through the Reactive Accelerator program (Sumit Saha).",
+            "2. Personal Projects: Built a production-ready Learning Management System (LMS) website using Next.js, TypeScript, and Redux.",
+            "3. Freelance Work and Local Clients: Started working with local clients and taking on small freelance projects to gain real-world experience.",
         ],
     },
 ];
 
-// Skills
+//! Skills
 export const skillsData = [
     {
         name: "Figma",
